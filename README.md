@@ -1,1 +1,1 @@
-My first readme
+My Journey is going well in alx.
